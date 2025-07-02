@@ -1,6 +1,8 @@
 # 欢迎来到 James 的 GitHub 小站 🍻⚽️🎹  
 Welcome to James's GitHub Corner 🍻⚽️🎹  
 
+🌐 我的博客 · My Blog: [https://jameswangblog.top](https://jameswangblog.top)
+
 ### 👋 自我介绍 · About Me
 
 大家好，我是加州大学伯克利分校的大三学生，主修数据科学，辅修计算机科学。  
@@ -33,6 +35,11 @@ In my free time, I enjoy playing soccer ⚽️ and piano 🎹. My dream is to be
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📬 联系方式 · Connect with Me
 
