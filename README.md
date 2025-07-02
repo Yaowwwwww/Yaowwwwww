@@ -1,15 +1,21 @@
 # 欢迎来到 James 的 GitHub 小站 🍻⚽️🎹  
-Welcome to James's GitHub Corner
+Welcome to James's GitHub Corner 🍻⚽️🎹  
 
-## 👋 自我介绍 · About Me
+### 👋 自我介绍 · About Me
 
-大家好，我是加州大学伯克利分校的大三学生，主修数据科学（Data Science），辅修计算机科学（Computer Science）。  
-我对数据工程、云计算服务以及分布式系统尤其感兴趣。  
-平时喜欢踢足球🎯和弹钢琴🎹，希望未来能将技术与热爱结合，创造有价值的东西。  
+大家好，我是加州大学伯克利分校的大三学生，主修数据科学，辅修计算机科学。  
+
+对计算机视觉、云计算服务以及分布式系统尤其感兴趣。  
+
+平时喜欢踢足球⚽️和弹钢琴🎹，梦想是去谷歌当 SWE，过着足球和代码的理想生活☁️☀️🌈。  
+
 
 Hi everyone! I’m a junior at UC Berkeley majoring in Data Science and minoring in Computer Science.  
-I’m particularly interested in data engineering, cloud computing services, and distributed systems.  
-In my free time, I enjoy playing soccer ⚽️ and piano 🎹. I hope to integrate my passions with technology to build meaningful tools.  
+
+I'm especially passionate about computer vision, cloud computing services, and distributed systems.  
+
+In my free time, I enjoy playing soccer ⚽️ and piano 🎹. My dream is to become a SWE at Google and live the ideal life of code and soccer ☁️☀️🌈.  
+
 
 ## 📊 GitHub Stats
 
@@ -35,8 +41,10 @@ In my free time, I enjoy playing soccer ⚽️ and piano 🎹. I hope to integra
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jameswang233)
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
-💬 感谢您的阅读！如果你想与我合作或只是聊聊技术，请给我留言。 ☕️
+---
+
+💬 感谢您的阅读！如果你想与我合作或只是聊聊技术，请给我留言。 ☕️  
 💬 Thanks for reading! Drop me a message if you want to collaborate or just chat about tech. ☕️  
 
-"心之所向，无所不及。"
-“Where the heart leads, there are no limits.”
+"心之所向，无所不及。"  
+"Where the heart leads, there are no limits."
